@@ -20,7 +20,6 @@ img{
 
 .home-section-heading {
     color:  #222b36;
-    font-family: "Roboto";
     font-size: 40px;
     font-weight: 700;
     font-family: bree serif;
@@ -65,5 +64,16 @@ img{
 .description{
     color: rgb(2, 0, 128);
     font-weight: bold;
+}
+.modal{
+    margin-top: 40px;
+}
+.modal-heading{
+    font-size: 25px;
+    margin-top: 10px;
+    font-family: roboto;
+}
+.link{
+    display: block;
 }
 
