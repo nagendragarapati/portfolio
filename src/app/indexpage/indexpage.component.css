@@ -20,7 +20,7 @@ img{
 
 .home-section-heading {
     color:  #222b36;
-    font-size: 40px;
+    font-size: 35px;
     font-weight: 700;
     font-family: bree serif;
 
@@ -72,6 +72,10 @@ img{
     font-size: 25px;
     margin-top: 10px;
     font-family: roboto;
+}
+.modal-img{
+    height: 300px;
+
 }
 .link{
     display: block;
